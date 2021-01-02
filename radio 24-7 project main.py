@@ -65,5 +65,5 @@ b14 = Radiobutton(root, variable=v, value=genres.get('Drum and Bass'), text='14.
 b15 = Radiobutton(root, variable=v, value=genres.get('Trance'), text='14. Trance-Goa+Dark+Psy', font=f1, bg=bg1, command=lambda aurl=genres.get('Trance'): talk(aurl)).grid(row=16, column=0, sticky=W)
 b16 = Radiobutton(root, variable=v, value=genres.get('telegram MetalBot'), text='16. telegram-Metal-Bot~~Daily-News~~', font=f1, bg=bg3, command=lambda aurl=genres.get('telegram MetalBot'): talk(aurl)).grid(row=14, column=1, sticky=W)
 b17 = Radiobutton(root, variable=v, value=genres.get('donate'), text='donate to support us~~PAYPAL', font=f1, bg=bg2, command=lambda aurl=genres.get('donate'): talk(aurl)).grid(row=15, column=1, sticky=W)
-b18 = Radiobutton(root, variable=v, value=genres.get('fallout radio'), text='fallout radio 24/7', font=f1, bg=bg2, command=lambda aurl=genres.get('fallout vintage'): talk(aurl)).grid(row=16, column=1, sticky=W)
+b18 = Radiobutton(root, variable=v, value=genres.get('fallout radio'), text='fallout radio 24/7', font=f1, bg=bg2, command=lambda aurl=genres.get('fallout radio'): talk(aurl)).grid(row=16, column=1, sticky=W)
 root.mainloop()
