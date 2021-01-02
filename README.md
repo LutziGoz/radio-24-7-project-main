@@ -4,7 +4,7 @@
 installation guide
 
 1. run this code in CMD/CLI ==>>  "git clone https://github.com/LutziGoz/radio-24-7-project-main.git"
-2. run this code in CMD/CLI " ==>>  "cd ~/radio-24-7-project-main"
+2. run this code in CMD/CLI " ==>>  "cd radio-24-7-project-main"
 3. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 4. enjoy 
 
