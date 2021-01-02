@@ -11,7 +11,7 @@ background_lable.place(relwidth=1, relheight=1)
 engine = pyttsx3.init()
 engine.say("choose a mode?")
 engine.runAndWait()
-answer = tk.messagebox.askquestion("Welcome Zibbi~!~Hadawe", "Would you like your Vibes based on you from a genre listed below?")
+answer = tk.messagebox.OK
 def talk (url):
     engine = pyttsx3.init()
     engine.runAndWait()
