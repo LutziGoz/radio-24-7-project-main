@@ -37,6 +37,7 @@ genres = {'Vintage radio': "https://www.youtube.com/watch?v=tb0B3auGbtA",
           'Rap': 'https://www.youtube.com/watch?v=05689ErDUdM',
           'R&B': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0',
           'drum&bass': 'https://www.youtube.com/watch?v=NXX71vBzqtc',
+          'Trance' : 'https://www.youtube.com/watch?v=4ihJ_mA8Fsk' ,
           'telegram MetalBot':'https://t.me/NewsMetaLutzi',
           'donate': 'https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74',
           'fallout radio' : 'https://www.youtube.com/watch?v=tzBGEqkwCoY'}
