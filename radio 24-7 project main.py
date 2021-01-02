@@ -23,9 +23,26 @@ def talk (url):
         engine.say("Great, enjoy")
         engine.runAndWait()
         webbrowser.open(url)
-genres = {'Vintage radio': "https://www.youtube.com/watch?v=tb0B3auGbtA", 'Electronic': "https://www.youtube.com/watch?v=LmZ9ICThkas",'dance music': 'https://www.youtube.com/watch?v=YSBO7Zl8mU4','Hip-hop': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0','Indie': 'https://www.youtube.com/watch?v=oVi5gtzTDx0', 'rock': 'https://www.youtube.com/watch?v=nwYAt3-IPHY','Jazz': 'https://www.youtube.com/watch?v=Dx5qFachd3A', 'blues': 'https://www.youtube.com/watch?v=UX8bHFoJyeY','Metal': 'https://www.youtube.com/watch?v=dGfdGZ8cH-o','Oldies': 'https://www.youtube.com/watch?v=tb0B3auGbtA', 'pop': 'https://www.youtube.com/watch?v=kGKkUN50R0c','Rap': 'https://www.youtube.com/watch?v=05689ErDUdM', 'R&B': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0','drum&bass': 'https://www.youtube.com/watch?v=NXX71vBzqtc'}
+genres = {'Vintage radio': "https://www.youtube.com/watch?v=tb0B3auGbtA",
+          'Electronic': "https://www.youtube.com/watch?v=LmZ9ICThkas",
+          'dance music': 'https://www.youtube.com/watch?v=YSBO7Zl8mU4',
+          'Hip-hop': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0',
+          'Indie': 'https://www.youtube.com/watch?v=oVi5gtzTDx0',
+          'rock': 'https://www.youtube.com/watch?v=nwYAt3-IPHY',
+          'Jazz': 'https://www.youtube.com/watch?v=Dx5qFachd3A',
+          'blues': 'https://www.youtube.com/watch?v=UX8bHFoJyeY',
+          'Metal': 'https://www.youtube.com/watch?v=dGfdGZ8cH-o',
+          'Oldies': 'https://www.youtube.com/watch?v=tb0B3auGbtA',
+          'pop': 'https://www.youtube.com/watch?v=kGKkUN50R0c',
+          'Rap': 'https://www.youtube.com/watch?v=05689ErDUdM',
+          'R&B': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0',
+          'drum&bass': 'https://www.youtube.com/watch?v=NXX71vBzqtc',
+          'telegram MetalBot':'https://t.me/NewsMetaLutzi',
+          'donate': 'https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74'}
 key , val = next(iter(genres.items()))
 bg1 = "lime green"
+bg2 = 'Antique white'
+bg3 =  'pink'
 f1 = ('Arial', 12)
 v = tk.StringVar()  # keep changes of variables over time
 mb = Button(root, text='Would you like your Vibes \n from the following genres?',
@@ -44,4 +61,7 @@ b11 = Radiobutton(root, variable=v, value=genres.get('Pop'), text='11. Pop', fon
 b12 = Radiobutton(root, variable=v, value=genres.get('Rap'), text='12. Rap', font=f1, bg=bg1,command = lambda aurl=genres.get('Rap'): talk(aurl)).grid(row=13, column=0, sticky=W)
 b13 = Radiobutton(root, variable=v, value=genres.get('Rhythm & Blues'), text='13. Rhythm & Blues', font=f1, bg=bg1, command=lambda aurl=genres.get('R&B'): talk(aurl)).grid(row=14, column=0, sticky=W)
 b14 = Radiobutton(root, variable=v, value=genres.get('Drum and Bass'), text='14. Drum and Bass', font=f1, bg=bg1, command=lambda aurl=genres.get('drum&bass'): talk(aurl)).grid(row=15, column=0, sticky=W)
+b15 = Radiobutton(root, variable=v, value=genres.get('Trance'), text='14. Trance-Goa+Dark+Psy', font=f1, bg=bg1, command=lambda aurl=genres.get('Trance'): talk(aurl)).grid(row=16, column=0, sticky=W)
+b16 = Radiobutton(root, variable=v, value=genres.get('telegram MetalBot'), text='16. telegram-Metal-Bot~~Daily-News~~', font=f1, bg=bg3, command=lambda aurl=genres.get('telegram MetalBot'): talk(aurl)).grid(row=10, column=1, sticky=W)
+b17 = Radiobutton(root, variable=v, value=genres.get('donate'), text='16. donate to support us~~PAYPAL', font=f1, bg=bg2, command=lambda aurl=genres.get('donate'): talk(aurl)).grid(row=16, column=1, sticky=W)
 root.mainloop()
