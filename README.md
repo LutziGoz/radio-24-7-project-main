@@ -1,17 +1,16 @@
 # LutziRadioTube-24-7
 @~!~!~~~~~!~!~!~!~!~~~~~~~ Hello Everyone ~!~!~ this is app for fun, choose a mode for listening what ever you feel. ~~~~~~~!~!~!~!~!~~~~~!~!~@
 
-    | |        | | |    
- ___| | ___   _| | |___ 
-/ __| |/ / | | | | / __|
-\__ \   <| |_| | | \__ \
-|___/_|\_\\__,_|_|_|___/
+
+
 installation guide
 1. run this code in CMD/CLI ==>> "pip install pyttsx3"
 2. run this code in CMD/CLI ==>>  "git clone https://github.com/LutziGoz/radio-24-7-project-main.git"
 3. run this code in CMD/CLI " ==>>  "cd radio-24-7-project-main"
 4. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 5. enjoy 
+
+
 NOTE:have URL to !~@~Daily~Metal~Lutzi~Bot~@~!
 
 
