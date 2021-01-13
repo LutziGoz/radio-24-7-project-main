@@ -11,7 +11,7 @@ installation guide
 5. enjoy 
 
 
-NOTE: have URL for !~Daily Metal Lutzi Bot~!
+NOTE: have URL for Daily Metal Lutzi Bot
 
 
 
