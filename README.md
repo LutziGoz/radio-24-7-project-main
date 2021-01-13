@@ -40,6 +40,10 @@ installation guide
 3. run this code in CMD/CLI " ==>>  "cd radio-24-7-project-main"
 4. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 5. enjoy 
+
+donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
+
+
                             .xm*f""??T?@hc.
                           z@"` '~((!!!!!!!?*m.
                         z$$$K   ~~(/!!!!!!!!!Mh
@@ -81,5 +85,3 @@ K   ":              ?> # '#$$$$$#~!!!!TR$$$$$R?@MME              z   R
              z$RRM8F"                             "N8@M$bL
             5`RM$#                                  'R88f)R
             'h.$"                                     #$x*
-
-donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
