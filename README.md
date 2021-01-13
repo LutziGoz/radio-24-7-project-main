@@ -1,6 +1,7 @@
 # LutziRadioTube-24-7
 @~!~!~~~~~!~!~!~!~!~~~~~~~ Hello Everyone ~!~!~ this is app for fun, choose a mode for listening what ever you feel. ~~~~~~~!~!~!~!~!~~~~~!~!~@
 
+NOTE:have URL to !~@~Daily~Metal~Lutzi~Bot~@~!
            .            )        )
                          (  (|              .
                      )   )\/ ( ( (
@@ -21,7 +22,7 @@
           \    (    |  ||               ||  |   (  /
                 \.  |  ||_             _||  |  /
                   > :  |  ~V+-I_I_I-+V~  |  : (.
-                 (  \:  T\   _     _   /T  : ./
+                 (  \:  T\~L U  T  Z  I~ /T  : ./
                   \  :    T^T T-+-T T^T    ;<
                    \..`_       -+-       _'  )
          )            . `--=.._____..=--'. ./         (
