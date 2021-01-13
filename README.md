@@ -40,51 +40,26 @@ installation guide
 3. run this code in CMD/CLI " ==>>  "cd radio-24-7-project-main"
 4. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 5. enjoy 
-        ,,..
-                                ,@$$$$$.
-                              .,$$$$$$$$i
-                        .,z$""')$$$$$$$$C`^#`-..
-                     ,zF'        `""#*"'       "*o.
-                  ,zXe>        u:..        ..      "c
-                ,' zP'    ,:`"          .            "N.
-              ,d",d$   ,'"   ,uB" .,uee..,?R.  ,  .    ^$.
-            ,@P d$"     .:$$$$$$$$$$$$$@$CJN.,"    `     #b
-           z$" d$P    :SM$$$$$$$$$$$$$$$$$$$Nf.           ^$.
-          J$" J$P  , ,@$$$$$$$$$$$$$$$$$$$$$$$$$k.         "$r
-         z$   $$.   ,$$$$$$$$$$$$$$$$$$$$$$$$$$f'   .    .   $b
-        ,$"  $$u,-.x'^""$$$$$$$$$$$$$$$$$$$$$$$$$.        `.  $k
-        $"  :$$$$> 8.   `#$$$$$$$$$$$$$$$$$$$$$"\  d  .    F   $.
-       $P  .$$$$$N `$b.  $$$$$$$$$$$$$$$$$$$$$k.$  $"  :   '   `$
-      <$'  4$$k $$c `*$.,Q$$$$$$$$$$$$$$$$$$$$$$$ ..            $L
-      $P   4$$$$$F:   `"$$$$$$$$$$$$$$$$$$$$$$'`$"     .   ,    `$
-     ,$'  ,$$$$$d$$    '##$$c3$$$$$$$$$$$$$$$$. '      :   L.    $.
-     J$  u$$$$$$$$$.,oed$*$$$$N "#$$$$$$$$$$***$@$N. , $  ,B$$N.,9L
-     $F,$$$$$$$$$$,@*"'  `J$$$$$#h$$$$$$P"`     `"*$$. $4W$' "$$uJF
-     4$$$$$$$$$$$$F'      $*'`$$RR@$$$$$R        ,' "$d$4"    '$$$R
-    ,$$$$$$$$$$$$$F     ,'    @$.3$$$$ R>            `$F$  dN.4$$$$.
-   :$$$$$$$$$$$$*$"          J$'$$$$$& $.             $'   $$$$$$$$$o
-    ^$$$$$$$$$$B@$$          $P $$$"?N/$k             $r   $$P"*$$$$'
-      $$i  .$$$$"$'         $$ ~R$P '$k^$$,'          $   "'  ,d$$'
-      $$$$ J$$$$ `,'    .,z$P'd.$P   #$. #$$u.       .$  eu. ,d$$$
-      $^$$$$$$$$. `"=+=N#'.,d$M$$'   `$$@s.#$$$u.   ,$C  $$$@$$$"$
-      "  `*$$$$$$bx..        ,M$"     `*$$$b/""$R"*"'d$ ,$$$$P"  '
-      4     "$$k3$9$$B.e.  ,ud$F       `3$$$$b.      ,$,@R$*'    4
-      <       *$$$$$$$b$$@$$$$$L   ,.  ,J$$.'**$$k$NX$"M"'       .
-      $         "$#"  `" <$$$$$$c,z$N.,o$$$$   ,NW$*"'           $
-      $.         ',    `$$$$$$$$$d$$$$$$$$$f ,$e*'               $
-     ,$c         d.     `^$$$$$$$$$$$$$$$$$.u '"                :$.
-     $$$         $\   .,  `"#$$$*$$$$$$$$$$$$ '                 4$F
-     $$"         $ `  k.`.     ``"#`"""'      ,' ,'             `$$
-     `"          $>,  `b.,ce(b:o uz CCLd$4$*F?\,o                "'
-                 $&    $$k'*"$$$$$$#$$$$$$$$$$ d'
-                 $$.,$$$$$$$$,e,$#$.*$`""""'e4 $
-                 `$$$$  ^$$\$"$$$$$$$$$$$$$$$.eL
-                  $$$"  $$$$$$$e$.$.$$.$e$d$$$$k
-                  R`$$  '$$$$$$$$$$$$$$$$$$$$$$P
-                  `  $Nc'"$$N3$$$$$$$$$$$$$$$$$'
-                      *$  9$.`@$$$$$$$$$$R$$$#'
-                       `$.  `"*$$$$$$$$$$P'' #
-                         "$u.    `""""''   ,'
-                           `"$Nu..  .,z
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
 
 donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
