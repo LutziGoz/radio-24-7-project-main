@@ -1,7 +1,5 @@
 # LutziRadioTube-24-7
 @~!~!~~~~~!~!~!~!~!~~~~~~~ Hello Everyone ~!~!~ this is app for fun, choose a mode for listening what ever you feel. ~~~~~~~!~!~!~!~!~~~~~!~!~@
-
-NOTE:have URL to !~@~Daily~Metal~Lutzi~Bot~@~!
            .            )        )
                          (  (|              .
                      )   )\/ ( ( (
@@ -41,6 +39,7 @@ installation guide
 3. run this code in CMD/CLI " ==>>  "cd radio-24-7-project-main"
 4. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 5. enjoy 
+NOTE:have URL to !~@~Daily~Metal~Lutzi~Bot~@~!
           .                                                      .
         .n                   .                 .                  n.
   .   .dP                  dP                   9b                 9b.    .
@@ -62,5 +61,4 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               X. 9  `   '  P )X
                               `b  `       '  d'
                                `             '
-
 donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
