@@ -39,45 +39,26 @@ installation guide
 4. run this code in CMD/CLI ==>>  "py radio\ 24-7\ project\ main.py"
 5. enjoy 
 NOTE:have URL to !~@~Daily~Metal~Lutzi~Bot~@~!
-                            .xm*f""??T?@hc.
-                          z@"` '~((!!!!!!!?*m.
-                        z$$$K   ~~(/!!!!!!!!!Mh
-                      .f` "#$k'`~~\!!!!!!!!!!!MMc
-                     :"     f*! ~:~(!!!!!!!!!!XHMk
-                     f      " %n:~(!!!!!!!!!!!HMMM.
-                    d          X~!~(!!!!!!!X!X!SMMR
-                    M :   x::  :~~!>!!!!!!MNWXMMM@R
- n                  E ' *  ueeeeiu(!!XUWWWWWXMRHMMM>                :.
- E%                 E  8 .$$$$$$$$K!!$$$$$$$$&M$RMM>               :"5
-z  %                3  $ 4$$$$$$$$!~!*$$$$$$$$!$MM$               :" `
-K   ":              ?> # '#$$$$$#~!!!!TR$$$$$R?@MME              z   R
-?     %.             5     ^"""~~~:XW!!!!T?T!XSMMM~            :^    J
- ".    ^s             ?.       ~~d$X$NX!!!!!!M!MM             f     :~
-  '+.    #L            *c:.    .~"?!??!!!!!XX@M@~           z"    .*
-    '+     %L           #c`"!+~~~!/!!!!!!@*TM8M           z"    .~
-      ":    '%.         'C*X  .!~!~!!!!!X!!!@RF         .#     +
-        ":    ^%.        9-MX!X!!X~H!!M!N!X$MM        .#`    +"
-          #:    "n       'L'!~M~)H!M!XX!$!XMXF      .+`   .z"
-            #:    ":      R *H$@@$H$*@$@$@$%M~     z`    +"
-              %:   `*L    'k' M!~M~X!!$!@H!tF    z"    z"
-                *:   ^*L   "k ~~~!~!!!!!M!X*   z*   .+"
-                  "s   ^*L  '%:.~~~:!!!!XH"  z#   .*"
-                    #s   ^%L  ^"#4@UU@##"  z#   .*"
-                      #s   ^%L           z#   .r"
-                        #s   ^%.       u#   .r"
-                          #i   '%.   u#   .@"
-                            #s   ^%u#   .@"
-                              #s x#   .*"
-                               x#`  .@%.
-                             x#`  .d"  "%.
-                           xf~  .r" #s   "%.
-                     u   x*`  .r"     #s   "%.  x.
-                     %Mu*`  x*"         #m.  "%zX"
-                     :R(h x*              "h..*dN.
-                   u@NM5e#>                 7?dMRMh.
-                 z$@M@$#"#"                 *""*@MM$hL
-               u@@MM8*                          "*$M@Mh.
-             z$RRM8F"                             "N8@M$bL
-            5`RM$#                                  'R88f)R
-            'h.$"                                     #$x*
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
+
 donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
