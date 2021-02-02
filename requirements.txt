@@ -8,7 +8,7 @@ attrs==20.3.0
 auto-py-to-exe==2.7.11
 backcall==0.2.0
 beautifulsoup4==4.9.3
-bleach==3.2.1
+bleach==3.3.0
 bottle==0.12.19
 bottle-websocket==0.2.9
 certifi==2020.12.5
