@@ -92,7 +92,7 @@ Send2Trash==1.5.0
 simplejson==3.17.2
 six==1.15.0
 soupsieve==2.1
-sqlparse==0.4.1
+sqlparse==0.4.2
 terminado==0.9.1
 testpath==0.4.4
 tornado==6.1
