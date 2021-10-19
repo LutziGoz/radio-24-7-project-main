@@ -15,6 +15,3 @@
 
 ### NOTE: have URL for Daily Metal Lutzi Bot.
 
-
-
-donate for support us https://www.paypal.com/donate?hosted_button_id=Q7JBNHULDUQ74
