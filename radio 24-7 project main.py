@@ -24,7 +24,7 @@ def talk (url):
         engine.runAndWait()
         webbrowser.open(url)
 genres = {'Vintage radio': "https://www.youtube.com/watch?v=tb0B3auGbtA",
-          'Electronic': "https://www.youtube.com/watch?v=LmZ9ICThkas",
+          'Electronic': "https://www.youtube.com/watch?v=thd6h-ZZIfo",
           'dance music': 'https://www.youtube.com/watch?v=YSBO7Zl8mU4',
           'Hip-hop': 'https://www.youtube.com/watch?v=L9Q1HUdUMp0',
           'Indie': 'https://www.youtube.com/watch?v=oVi5gtzTDx0',
