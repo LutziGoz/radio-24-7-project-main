@@ -1,4 +1,5 @@
 # LutziRadioTube-24-7
+## update note: added new .exe versionto file. and change couple of things, i wish you njoy from updates and new version.
 @~!~!~~~~~!~!~!~!~!~~~~~~~ Hello Everyone ~!~!~ this is app for fun, choose a mode for listening what ever you feel. ~~~~~~~!~!~!~!~!~~~~~!~!~@
 
 ![chooes a mode](https://user-images.githubusercontent.com/45577616/123687260-01423980-d851-11eb-97dd-fdbc223c393d.png)
