@@ -3,7 +3,7 @@
 ## change couple of things, i wish you njoy from updates and new version.
 @~!~!~~~~~!~!~!~!~!~~~~~~~ Hello Everyone ~!~!~ this is app for fun, choose a mode for listening what ever you feel. ~~~~~~~!~!~!~!~!~~~~~!~!~@
 
-![ice_screenshot_20220805-164221](https://user-images.githubusercontent.com/45577616/183089695-6a5bee1a-784a-4829-bcd7-e3097eaf1053.png)
+![ice_screenshot_20220805-170840](https://user-images.githubusercontent.com/45577616/183094459-46773d85-5cd5-4545-9250-98fe749dbc18.png)
 
 
 # installation guide
