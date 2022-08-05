@@ -15,5 +15,5 @@
 6. enjoy :sound:
 
 
-### NOTE: have URL for Daily Metal Lutzi Bot.
+### Tip for FUN: have URL for Daily Metal Lutzi Bot.
 
